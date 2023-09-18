@@ -14,7 +14,7 @@ working with a team wherein they all would have to learn an odd feature that you
 down the process of the project etc. 
 
 The rest of the article also bring up pretty interesting points especially on about the **complacency** of some CS professors who are 
-potentially out of touch with the ever-evolving field of CS on top of critisizing the CS courses offered as requirments. One example 
+potentially out of touch with the ever-evolving field of CS on top of critiquing the CS courses offered as requirments. One example 
 that stood out to me in this is *Data Structures*. They mention that it is very unlikely in the real world that you would have to 
 maneuver around to figure out the "best" data structure to implement or even have to implement your own as that is prone to mistakes 
 and unnecessarily time-consuming: *"Many organizations explicitly forbid roll-your-own data structures with good reason."* Although 
