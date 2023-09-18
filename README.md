@@ -19,3 +19,6 @@ and unnecessarily time-consuming: *"Many organizations explicitly forbid roll-yo
 there 
 are points that are not always true, I think this is a pretty interesting article that gives a refreshing insight about CS as a form of 
 academia and in the real world. 
+
+Alex Hmitti's comment <p>
+I really enjoyed this article, even if it leaned towards the pessimistic side. I agreed with some of the points the author highlighted, especially the lack of modern skills being covered in certain CS curriculums. However, I disagree with the view that “theory distracts and confuses” or that “intellectualism rarely produces results.” Practical skills and hands-on experience are essential, but I believe that - as with many disciplines - a strong theoretical foundation leads to deeper insights and equips CS graduates to think critically and adapt more effectively.
